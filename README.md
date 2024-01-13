@@ -1,6 +1,8 @@
 # Moushum
 Moushum is a farming website project
 
+# Setup Database
+start xampp and export moushum.sql & database.sql
 # Go to server folder
 cd server
 
