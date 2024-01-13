@@ -4,9 +4,9 @@ Moushum is a farming website project
 # Go to server folder
 cd server
 
-'''
+' ' '
 npm i
-'''
+' ' '
 npm start
 
 
